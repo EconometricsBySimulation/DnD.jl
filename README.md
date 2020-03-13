@@ -1,2 +1,3 @@
-# DnD.jl
-A combat simulator for DnD
+### Source
+
+https://github.com/cyberscribe/d20datascience
